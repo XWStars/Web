@@ -1,2 +1,1 @@
-# Web
-Web develop
+该project是为学习前端而特意创建的
